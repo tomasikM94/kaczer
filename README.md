@@ -1,2 +1,2 @@
 # kaczer
-Catches the SNMP traps and expose under WEB GUI and REST API
+Catches the SNMP trap and expose it under WEB GUI and REST API
